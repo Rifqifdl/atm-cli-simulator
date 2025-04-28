@@ -1,2 +1,19 @@
-# atm-cli-simulator
-A simple ATM simulation application built with Golang and MySQL, featuring basic financial operations such as registration, login, balance inquiry, deposit, withdrawal, and account transfers through a Command-Line Interface (CLI).
+# ATM CLI Simulator
+
+A simple ATM simulation application built with Golang and MySQL, featuring basic financial operations through a Command-Line Interface (CLI).
+
+## Features
+
+- User registration
+- User login
+- Balance inquiry
+- Deposit
+- Withdrawal
+- Transfer between accounts
+- Command-line interface (CLI) based interaction
+
+## Tech Stack
+
+- **Golang** (Go)
+- **MySQL** (Database)
+- **CLI** (Command Line Interface)
